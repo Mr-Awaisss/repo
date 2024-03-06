@@ -7,4 +7,4 @@ if (a==2):
     print("The {n} is prime")
 else:
     print(f"The {n} is not prime")
-        
+        # adding comm
